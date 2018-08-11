@@ -1,7 +1,7 @@
 Boekhoudenopmaat
 ================
 
-Django version for Boekhoudenopmaat software designed for associations. Accounting software designed for associations.
+Django version for Boekhoudenopmaat software. Accounting software designed for associations.
 
 .. image:: https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg
      :target: https://github.com/pydanny/cookiecutter-django/
