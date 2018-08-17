@@ -52,7 +52,7 @@ coverage.xml
 
 # Django stuff:
 staticfiles/
-config/settings/*
+config/settings/local.py
 
 # Sphinx documentation
 docs/_build/
